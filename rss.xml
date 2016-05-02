@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[trite wave]]></title>
         <description><![CDATA[trite wave]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trite-wave/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 07:39:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 07:40:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trite-wave/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd0c7dc-cdd0-4e8c-8ff3-6bf07da4e4dd.jpg">]]></description>
+            <link>https://thegrid.ai/trite-wave/32ba50a1-75c5-430b-a083-172179fc2c4d/index.html</link>
+            <guid isPermaLink="false">32ba50a1-75c5-430b-a083-172179fc2c4d</guid>
+            <pubDate>Mon, 02 May 2016 07:39:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[True Aloha]]></title>
             <description><![CDATA[<article><h1>True Aloha</h1><p>True story. This valley is known as the Valley of Kings. A lot of weird and magical stuff happen here. It all depends what you bring within you down to the valley. Be pono (with integrity). Trust this sign, slow your roll. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dbef9b3-7139-42b1-961c-ca4d01532500.jpg"></article>]]></description>
-            <link>undefinedtrue-aloha/index.html</link>
+            <link>https://thegrid.ai/trite-wave/true-aloha/index.html</link>
             <guid isPermaLink="false">f0cd4628-bf48-4024-aa39-258f7e4e7107</guid>
             <pubDate>Mon, 02 May 2016 07:39:50 GMT</pubDate>
         </item>
