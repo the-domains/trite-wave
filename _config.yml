@@ -1,0 +1,14 @@
+layout_spectrum: 0.9100195548962802
+typography_spectrum: 0.6464119825977832
+color:
+  brandStrength: 0.9880627982784063
+  lightness: 0.7620274240616709
+  saturation: 0.5632022207137197
+  rhythmicContrast: 0.7399863309692591
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: trite wave
